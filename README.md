@@ -1,7 +1,7 @@
 # Johannes Kjær
 ### MSc. student at the Norwegian Univeristy of Science and Technology (NTNU)
 ### Studying Physics and Mathematics
-Currently (20.8-01.7) on an exchange to Swiss Federal Institute of Technology Lausanne (EPFL).
+Currently (20.08.23-01.07.24) on an exchange to Swiss Federal Institute of Technology Lausanne (EPFL).
 I am interested in, and currently doing subjects in machine learning.
 
 <!--
