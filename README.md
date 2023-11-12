@@ -1,4 +1,8 @@
-### Hi there 👋
+# Johannes Kjær
+### MSc. student at the Norwegian Univeristy of Science and Technology (NTNU)
+### Studying Physics and Mathematics
+Currently (20.8-01.7) on an exchange to Swiss Federal Institute of Technology Lausanne (EPFL).
+I am interested in, and currently doing subjects in machine learning.
 
 <!--
 **johannes-kjaer/johannes-kjaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
