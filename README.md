@@ -2,7 +2,9 @@
 ### MSc. student at the Norwegian Univeristy of Science and Technology (NTNU)
 ### Studying Physics and Mathematics
 Currently (20.08.23-01.07.24) on an exchange to Swiss Federal Institute of Technology Lausanne (EPFL).
-I am interested in, and currently doing subjects in machine learning.
+I am interested in, and currently doing subjects in machine learning. In the subject CS-433, Machine Learning, we developed a model to detect, segment and label different nanoshapes from TEM images. The repository may be found here: https://github.com/CS-433/ml-project-2-andersmaxjohannes
+
+
 
 <!--
 **johannes-kjaer/johannes-kjaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
