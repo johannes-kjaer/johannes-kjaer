@@ -1,8 +1,8 @@
 # Johannes Kjær
 ### MSc. student at the Norwegian Univeristy of Science and Technology (NTNU)
 ### Studying Physics and Mathematics
-Currently (20.08.23-01.07.24) on an exchange to Swiss Federal Institute of Technology Lausanne (EPFL).
-I am interested in, and currently doing subjects in machine learning. In the subject CS-433, Machine Learning, we developed a model to detect, segment and label different nanoshapes from TEM images. The repository may be found here: https://github.com/CS-433/ml-project-2-andersmaxjohannes
+Specializing in Differential Equations, both analytically and numerically (Finite differences, Finite Elements). The academic year 25/26 I am writing my masters thesis in Stochastic Differential Equations.
+I am also interested in have been/am doing subjects in machine learning, optimization, algebra, cryptography, and quantum computing.
 
 
 
